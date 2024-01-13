@@ -1,6 +1,6 @@
 # dog-breed-identification
 
-Kaggle Competition: Dog Breed Identification
+Kaggle Competition: Dog Breed Identification.
 
 https://www.kaggle.com/competitions/dog-breed-identification
 
